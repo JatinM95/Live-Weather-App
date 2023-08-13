@@ -1,6 +1,6 @@
 import './App.css';
 import React, {useState} from 'react';
-import Weather from './components/weather';
+import Weather from './components/Weather';
 
 function App() {
   const [lat, setLat] = useState([]);
